@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "js",
+      "password": "Abc@123456",
+      "email": "patelvedant1080@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "node",
+      "password": "Abc@123445678",
+      "email": "vedant1080@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "react",
+      "password": "Afdsgfokld@3435",
+      "email": "prof.rnwjay2205@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "deep",
+      "password": "Av456768@@",
+      "email": "prof.rnw2205@gmail.com",
+      "id": 4
+    }
+  ]
+}
