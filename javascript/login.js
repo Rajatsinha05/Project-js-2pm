@@ -1,3 +1,10 @@
+
+import Navbar from '../components/nav.js'
+
+document.getElementById('navbar').innerHTML=Navbar()
+console.log(Navbar)
+
+
 const login = (e) => {
   e.preventDefault();
   let password = document.getElementById("password").value;
@@ -19,3 +26,4 @@ const login = (e) => {
 };
 
 document.getElementById("form").addEventListener("submit", login);
+
